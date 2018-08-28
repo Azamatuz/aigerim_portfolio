@@ -31,6 +31,10 @@ body p {
 #title {
     margin: 100px;
 }
+#projects {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 .grey {
     
     background-color: #D2D4DC;
@@ -63,7 +67,7 @@ body p {
      vertical-align: middle;
 }
 .white_space {
-    height: 100px;
+    height: 50px;
 }
 #projects img {
     margin-bottom: 150px;
