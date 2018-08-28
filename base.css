@@ -3,9 +3,10 @@ body {
 }
 body h1 {
     font-size: 39px;
+    padding: 20px;
 }
 body p {
-    font-size: 14px;
+    font-size: 18px;
 }
 .center {
     display: block;
@@ -13,6 +14,7 @@ body p {
 }
 #nav {
     margin-top: 50px;
+    font-size: 18px;
 }
 .smi img {
     height: 30px;
@@ -33,13 +35,13 @@ body p {
     
     background-color: #D2D4DC;
     border-radius: 50px;
-    margin-left: 100px;
-    height: 500px;
-    width: 500px;
+    height: 550px;
+    width: 550px;
 }
 .green {
     background: url("img/green.png");
     background-repeat: no-repeat;
+    
 }
 .yellow {
     background: url("img/yellow.png");
@@ -69,6 +71,18 @@ body p {
 ion-icon {
   font-size: 150px;
   color: black;
-  margin-top: 150px;
-  margin-left: 150px;
+  margin-top: 35%;
+  margin-left: 35%;
+}
+input {
+    margin: 10px auto;
+    position: relative;
+    width: 650px;
+}
+.btn-lg {
+    background-color: #FF6F69;
+    color: white;
+    margin: 20px;
+    height: 80px;
+    width: 250px;
 }
