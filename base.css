@@ -1,88 +1,107 @@
 body {
     font-family: 'Comfortaa', bold;
 }
+
 body h1 {
     font-size: 39px;
     padding: 20px;
 }
+
 body p {
     font-size: 18px;
 }
+
 .center {
     display: block;
     margin: auto;
 }
+
 #nav {
     margin-top: 50px;
     font-size: 18px;
 }
+
 .smi img {
     height: 30px;
-    margin: 10px;
 }
+
 .logo img {
     height: 50px;
 }
+
 .nav-item {
     color: black;
     margin-right: 20px;
     margin-top: 20px;
 }
+
 #title {
-    margin: 100px;
+    margin: auto;
 }
+
 #projects {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
 .grey {
-    
     background-color: #D2D4DC;
     border-radius: 50px;
-    height: 550px;
-    width: 550px;
+
 }
+
 .green {
     background: url("img/green.png");
     background-repeat: no-repeat;
-    
+
 }
+
 .yellow {
     background: url("img/yellow.png");
     background-repeat: no-repeat;
 }
+
 .orange {
     background: url("img/orange.png");
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+
 .pink {
     background: url("img/pink.png");
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+
 .middle {
-     display: table-cell;
-     text-align: center;
-     vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
+
 .white_space {
     height: 50px;
 }
+
 #projects img {
-    margin-bottom: 150px;
+    width: 30%;
+    height: auto;
+    margin: auto;
 }
+
 ion-icon {
-  font-size: 150px;
-  color: black;
-  margin-top: 35%;
-  margin-left: 35%;
+    font-size: 150px;
+    color: black;
+    margin-top: 35%;
+    margin-left: 35%;
 }
+
 input {
     margin: 10px auto;
     position: relative;
     width: 650px;
 }
+
 .btn-lg {
     background-color: #FF6F69;
     color: white;
